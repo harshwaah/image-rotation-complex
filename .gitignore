@@ -1,0 +1,10 @@
+# PyInstaller outputs
+build/
+dist/
+*.spec
+
+# Python bytecode and virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
